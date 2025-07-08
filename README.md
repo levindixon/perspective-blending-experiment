@@ -32,10 +32,10 @@ Each description captured different, valid elements, but no single one saw the w
 
 | Engineer | What They Remembered                                                                                                                                  | AI Reconstruction                                                                         |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **A**    | "It's a penguin playing an instrument in the desert during the night. There is a camel taxi listening and a Robot selling cotton candy."              | <img src="assets/recon_a.png" alt="Reconstruction A" width="250"> |
-| **B**    | "There's a penguin play saxophone in the dessert with a ferris wheel behind it. There's a taxi with a camel in it. And a robot selling cotton candy." | <img src="assets/recon_b.png" alt="Reconstruction B" width="250"> |
-| **C**    | "a city in the desert with things from the past and things from the future"                                                                           | <img src="assets/recon_c.png" alt="Reconstruction C" width="250"> |
-| **D**    | "A Disney vibed desert party with a musical penguin and a candy floss robot on a distant planet with two moons."                                      | <img src="assets/recon_d.png" alt="Reconstruction D" width="250"> |
+| **A**    | "It's a penguin playing an instrument in the desert during the night. There is a camel taxi listening and a Robot selling cotton candy."              | <img src="assets/recon_a.png" alt="Reconstruction A" width="550"> |
+| **B**    | "There's a penguin play saxophone in the dessert with a ferris wheel behind it.<br>There's a taxi with a camel in it. And a robot selling cotton candy." | <img src="assets/recon_b.png" alt="Reconstruction B" width="550"> |
+| **C**    | "a city in the desert with things from the past and things from the future"                                                                           | <img src="assets/recon_c.png" alt="Reconstruction C" width="550"> |
+| **D**    | "A Disney vibed desert party with a musical penguin and a candy<br>floss robot on a distant planet with two moons."                                      | <img src="assets/recon_d.png" alt="Reconstruction D" width="550"> |
 
 ## Blended Reconstruction
 
@@ -47,7 +47,7 @@ This prompt is a simple concatenation of the four descriptions above. The result
 
 | Original Source                                                           | Blended Reconstruction                                                                          |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <img src="assets/source.png" alt="Original source image" width="350"> | <img src="assets/recon_blended.png" alt="Blended reconstruction" width="350"> |
+| <img src="assets/source.png" alt="Original source image"> | <img src="assets/recon_blended.png" alt="Blended reconstruction"> |
 
 The blended version captures nearly every major element—something no individual description achieved.
 
