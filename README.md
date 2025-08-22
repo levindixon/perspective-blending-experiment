@@ -84,3 +84,6 @@ This "perspective blending" approach leverages the unique strengths of each agen
 3. Collect their 1-3 sentence descriptions (keep them isolated)
 4. Feed descriptions individually to an image generator, then all together
 5. Compare the results—the difference is striking
+
+- [Session Template](https://docs.google.com/presentation/d/1hMcf3Dawsmo6ndWVRlt4bqDoSWEkPZ5uijR3nLqMwa8/edit?slide=id.g36471f7fef4_0_0#slide=id.g36471f7fef4_0_0)
+- [Example from Team Datastores](https://docs.google.com/presentation/d/12daw1CEY_4biXDFlu0aXo8Fm4GFELggzTBw0_QVMWt8/edit?slide=id.g36471f7fef4_0_0#slide=id.g36471f7fef4_0_0)
